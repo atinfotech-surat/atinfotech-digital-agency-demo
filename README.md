@@ -45,21 +45,4 @@ index.html            Metadata and Organization JSON-LD
 .github/workflows/    Build verification workflow
 ```
 
-## Suggested GitHub repository details
-
-- **Repository name:** `atinfotech-digital-agency-demo`
-- **Description:** `Responsive digital agency website concept for ATinfotech, built with React and Vite.`
-- **Topics:** `react`, `vite`, `digital-agency`, `web-development`, `surat`, `portfolio`
-
-The provided destination is the `atinfotech-surat` GitHub account. Create an empty public repository there named `atinfotech-digital-agency-demo`, then run these commands from this folder:
-
-```bash
-git init
-git add .
-git commit -m "Add ATinfotech digital agency demo"
-git branch -M main
-git remote add origin https://github.com/atinfotech-surat/atinfotech-digital-agency-demo.git
-git push -u origin main
-```
-
 The project is MIT-licensed; see [`LICENSE`](./LICENSE).
